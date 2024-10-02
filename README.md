@@ -1,9 +1,4 @@
 ### Olá! Sou Gilberto Santos. Desenvolvedor, RPA e Cientista de Dados!
-#### Habilidades e Qualificações
-* Desenvolvedor Python, VBA
-* Banco de Dados Relacionais (Oracle, SQL Server, Postgress)
-* Banco de Dados NoSQL (MongoDB)
-* Estudando no momento o ecosistema Javascrip (Node, React, React Native, Next JS, Nest JS,...)
 
 <br />
 
@@ -12,6 +7,16 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gilbertosantos-dev&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertosantos-dev&layout=compact&langs_count=7&theme=noctis_minimus"/>
 </div>
+
+<br />
+
+#### Principais Habilidades e Qualificações
+* Desenvolvedor Python, VBA
+* Banco de Dados Relacionais (Oracle, SQL Server, Postgress)
+* Banco de Dados NoSQL (MongoDB)
+* Estudando no momento o ecosistema Javascrip (Node, React, React Native, Next JS, Nest JS,...)
+
+<br />
 
 <!-- Imagens de linguagens, procurar no https://devicon.dev/ -->
 <div style="display: inline_block"><br>
