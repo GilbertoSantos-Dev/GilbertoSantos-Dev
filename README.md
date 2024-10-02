@@ -1,4 +1,11 @@
 ### Olá! Sou Gilberto Santos. Desenvolvedor, RPA e Cientista de Dados!
+#### Habilidades e Qualificações
+* Desenvolvedor Python, VBA
+* Banco de Dados Relacionais (Oracle, SQL Server, Postgress)
+* Banco de Dados NoSQL (MongoDB)
+* Estudando no momento o ecosistema Javascrip (Node, React, React Native, Next JS, Nest JS,...)
+
+<br />
 
 <div height="180em">
   <a href="https://github.com/gilbertosantos-dev">
